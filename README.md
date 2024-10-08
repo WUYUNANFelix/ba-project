@@ -1,2 +1,2 @@
-# ba-project
+# MGS3101 Project
 MGS3101
